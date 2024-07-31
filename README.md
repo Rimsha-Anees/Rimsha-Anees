@@ -2,7 +2,13 @@
 <img width="1816" alt="banner" src="https://user-images.githubusercontent.com/62876612/120372088-27e38200-c330-11eb-981b-cd0844de0fab.png">
 
 # Rimsha Anees
-I'm Rimsha from Pakistan. I am a fresh graduate of BS Software Engineering. I am a problem solver by heart. I love complex problem solving and enjoy working in multidisciplinary teams as well as immersing myself into individual tasks. I am patient, considerate, and, structured. I do not hesitate to take the lead and I strive to do my very best at all times. Games have always fascinated me. I am passionate about learning and partaking in game development.
+I'm Rimsha, and I'm a problem-solving enthusiast with a passion for software engineering.
+
+With a love for tackling complex challenges, I thrive in multidisciplinary teams and immerse myself in individual tasks with patience, consideration, and a structured mindset. Whether I'm taking the lead or collaborating with others, I'm always striving to do my best.
+
+As a Software Engineer, I'm well-versed in a range of languages, tools, and technologies, including C++, DirectX, OpenGL, Qt, Python, C#, Java, ASP.NET MVC, Angular JS, Microsoft Visual Studio, Microsoft SQL Server, PyCharm, and more.
+
+I'm passionate about learning and contributing to the field of software engineering through research and development.
 
 ## Skills and Experience
 * Problem Solving
